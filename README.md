@@ -22,10 +22,6 @@ Exibição do nome sorteado na tela
 
 Como Usar
 
-Clone este repositório:
-
-git clonehttps://github.com/mateuscajun/Sorteador-amigo-secreto
-
 Abra o arquivo index.html em um navegador.
 
 Digite os nomes no campo de entrada.
